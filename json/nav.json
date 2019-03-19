@@ -1,0 +1,37 @@
+{
+    "titulo":"Dulce Piña",
+    "correo":"info@gmail.com",
+    "active":true,
+    "imagen":"https://materializecss.com/images/office.jpg",
+    "logoReact":"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "logo":"http://d1cxtglzz1rb2m.cloudfront.net/emoji/SVG/513-cactus-1.svg",
+    "emoji":"🍍",
+    "menupage":[
+      {
+        "nombre": "Plataforma",
+        "href": "/",
+        "class": "menu-btn",
+        "id":"plataforma-app",
+        "icono":"dns"
+      },
+      {
+        "nombre": "Contacto",
+        "href": "/contacto",
+        "class": "menu-btn",
+        "id":"contacto-app",
+        "icono":"person_pin"
+      }
+    ],
+    "redes":[
+      {
+        "red":"Facebook",
+        "url":"",
+        "icon":"fab fa-facebook-square color-f"
+      },
+      {
+        "red":"instagram",
+        "url":"",
+        "icon":"fab fa-instagram color-i"
+      }
+    ]
+  }
